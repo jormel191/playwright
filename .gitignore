@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+
+# testing
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# production
+/build
+
+# misc
+/config/.env
+
+# ides
+.idea
+.vscode
+
+# yarn dependencies
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
