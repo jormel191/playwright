@@ -34,4 +34,4 @@ Make sure that your `./config/.env` file has following data:
 BASE_URL='put your base url here'
 ```
 ## Writing Tests
-All test scripts are located in the e2e directory. You can create new test files or modify existing ones to suit your testing needs.
+All test scripts are located in the test directory. You can create new test files or modify existing ones to suit your testing needs.
